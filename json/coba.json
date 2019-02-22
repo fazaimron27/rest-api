@@ -1,0 +1,32 @@
+[
+
+	{
+		"nama": "Faza",
+		"umur": 17,
+		"nis": "16830",
+		"lulus": false,
+		"hobby": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Melanoke Pramanik",
+			"pembimbing2": "Rexsi"
+		}
+	},
+	{
+		"nama": "Faza",
+		"umur": 17,
+		"nis": "16830",
+		"lulus": false,
+		"hobby": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Melanoke Pramanik",
+			"pembimbing2": "Rexsi"
+		}
+	}
+
+]
