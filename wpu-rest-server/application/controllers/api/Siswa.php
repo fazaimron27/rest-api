@@ -14,7 +14,7 @@ class Siswa extends REST_Controller
 		parent::__construct();
 		$this->load->model('Siswa_model', 'siswa');
 
-		$this->methods['index_get']['limit'] = 10;
+		$this->methods['index_get']['limit'] = 100;
 	}
 	public function index_get()
 	{
